@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Yout text
+Necesito **dormir** un ratito :(
 Use the left arrow to go back!
